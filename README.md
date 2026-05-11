@@ -8,7 +8,7 @@ documenting my growth and projects throughout my high school years right here on
 
 🛠️ Technologies & Tools
 
-Languages: Python 🐍, HTML & CSS 🌐
+Languages: Python 🐍, HTML & CSS 🌐 And Arduino
 •	Editor: Visual Studio Code
 •	Focus: Algorithms, Problem Solving, and Web Development
 
